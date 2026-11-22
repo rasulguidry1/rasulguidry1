@@ -1,6 +1,6 @@
 # Hello, I'm Rasul Guidry
 
-San Francisco Bay Area | Aspiring IAM Engineer
+San Francisco Bay Area | IAM Engineer
 
 I work in IT support, mainly hardware repairs and software troubleshooting. I can replace any part of a Dell computer and handle light software troubleshooting. I'm now moving into Identity and Access Management, with my SC-300, and building hands-on IAM labs to prove it.
 

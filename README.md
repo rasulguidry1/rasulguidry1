@@ -100,7 +100,7 @@ IT Support | Hardware Troubleshooting | IT Asset Management
 📚 Certifications
 
 * Microsoft SC-300 — Certified
-* CompTIA A+ — Core 2 passed; Core 1 in progress
+* CompTIA A+ — Certified
 
 🎯 Career Direction
 

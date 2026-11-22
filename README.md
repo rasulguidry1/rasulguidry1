@@ -43,7 +43,7 @@ These are my current learning and project focus areas, not a claim of profession
 
 🛠️ Featured IAM Projects
 
-1. Microsoft Entra ID — Identity & Access Management Lab
+1. [Microsoft Entra ID — Identity & Access Management Lab](https://github.com/rasulguidry1/entra-id-identity-lab)
 
 Goal: Demonstrate secure employee identity administration.
 
@@ -57,7 +57,7 @@ Project scope:
 
 Evidence: Configuration screenshots, test cases, and security explanations.
 
-2. Identity Lifecycle Automation
+2. [Identity Lifecycle Automation](https://github.com/rasulguidry1/identity-lifecycle-automation)
 
 Goal: Demonstrate how organizations manage employee access efficiently.
 
@@ -71,7 +71,7 @@ Project scope:
 
 Evidence: Scripts, sample input data, test results, and documentation.
 
-3. Single Sign-On & Application Access
+3. [Single Sign-On & Application Access](https://github.com/rasulguidry1/sso-application-access)
 
 Goal: Demonstrate centralized authentication for business applications.
 

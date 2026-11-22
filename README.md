@@ -1,3 +1,25 @@
+🏆 Certifications
+
+Microsoft Certified: Identity and Access Administrator Associate (SC-300)
+
+Issued by: Microsoft
+
+Certified in implementing and managing identity and access solutions using Microsoft Entra ID, with a focus on securing organizational identities, controlling access, and enforcing Zero Trust principles.
+
+Core competencies:
+
+* 🔐 Identity Management: Managing users, groups, roles, and identity lifecycles in Microsoft Entra ID.
+* 🛡️ Authentication & Access: Implementing MFA, Conditional Access, and secure authentication policies.
+* ☁️ Workload Identities: Managing application identities, service principals, and managed identities.
+* 🔑 Identity Governance: Implementing access reviews, entitlement management, and privileged access controls.
+* ⚙️ Security: Applying least-privilege access and Zero Trust principles to reduce unauthorized access risks.
+
+Business Value: Helping organizations ensure employees and applications receive the appropriate access while minimizing security risks.
+
+View Microsoft Certification
+
+---
+
 Hi, I’m Rasul 👋
 
 IT Support Professional | Identity & Access Management (IAM) | San Francisco Bay Area
@@ -6,7 +28,7 @@ I’m an IT professional with experience in hardware support, software troublesh
 
 I’m expanding into Identity and Access Management, focusing on Microsoft Entra ID, secure authentication, access controls, and identity lifecycle management.
 
-I’m currently preparing for the Microsoft SC-300 certification and developing hands-on projects to demonstrate practical IAM skills.
+I’m Microsoft Certified: Identity and Access Administrator Associate (SC-300) and developing hands-on projects to demonstrate practical IAM skills.
 
 🔐 IAM Focus Areas
 
@@ -77,7 +99,7 @@ IT Support | Hardware Troubleshooting | IT Asset Management
 
 📚 Certifications
 
-* Microsoft SC-300 — Preparing
+* Microsoft SC-300 — Certified
 * CompTIA A+ — Core 2 passed; Core 1 in progress
 
 🎯 Career Direction
